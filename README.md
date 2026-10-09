@@ -1,5 +1,7 @@
 # ColdTrace Logistics — Microsoft Fabric Portfolio Project
 
+▶️ **[Watch the project walkthrough on YouTube](https://www.youtube.com/watch?v=yY2xBQ0JoYo&t=3s)**
+
 **ColdTrace Logistics** is a fictional cold-chain logistics company — a job-application portfolio project built to demonstrate breadth across Microsoft Fabric. The scenario: a company that needs business-performance and vehicle-telemetry reporting — plus visibility into its own data quality — which naturally leads to two different ingestion patterns feeding the same Fabric Lakehouse.
 
 *For schemas, pipeline mechanics, and a runbook, see [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md). The actual notebook code is in [notebooks/](notebooks/).*
